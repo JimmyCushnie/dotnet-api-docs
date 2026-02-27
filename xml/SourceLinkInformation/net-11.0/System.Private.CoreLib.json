@@ -1,7 +1,7 @@
 {
   "Assembly": "System.Private.CoreLib",
   "GUID": "20A4519845AF923982D14D9242619594FFFFFFFF",
-  "Tag": "RwKNRNkQnVo37wEaO5SUBBJ4z7LrjqFFbfANuRfxM9A=",
+  "Tag": "gK14/Mkb1uYc4FlZ93NVw5YagX/voFOwclK0sAPQ6jY=",
   "Types": [
     {
       "Members": [
@@ -1819,7 +1819,7 @@
         },
         {
           "DocsId": "T:System.Delegate.InvocationListEnumerator`1",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Action.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Delegate.cs"
         }
       ],
       "DocsId": "T:System.Delegate",
@@ -1841,7 +1841,7 @@
         }
       ],
       "DocsId": "T:System.Delegate.InvocationListEnumerator`1",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Action.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Delegate.cs"
     },
     {
       "Members": [
@@ -2269,11 +2269,11 @@
         },
         {
           "DocsId": "T:System.Environment.SpecialFolder",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "T:System.Environment.SpecialFolderOption",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         }
       ],
       "DocsId": "T:System.Environment",
@@ -2301,221 +2301,221 @@
       "Members": [
         {
           "DocsId": "F:System.Environment.SpecialFolder.value__",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.ApplicationData",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonApplicationData",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.LocalApplicationData",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Cookies",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Desktop",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Favorites",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.History",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.InternetCache",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Programs",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.MyComputer",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.MyMusic",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.MyPictures",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.MyVideos",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Recent",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.SendTo",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.StartMenu",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Startup",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.System",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Templates",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.DesktopDirectory",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Personal",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.MyDocuments",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.ProgramFiles",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonProgramFiles",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.AdminTools",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CDBurning",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonAdminTools",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonDocuments",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonMusic",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonOemLinks",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonPictures",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonStartMenu",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonPrograms",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonStartup",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonDesktopDirectory",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonTemplates",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonVideos",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Fonts",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.NetworkShortcuts",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.PrinterShortcuts",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.UserProfile",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.CommonProgramFilesX86",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.ProgramFilesX86",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Resources",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.LocalizedResources",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.SystemX86",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolder.Windows",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         }
       ],
       "DocsId": "T:System.Environment.SpecialFolder",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
     },
     {
       "Members": [
         {
           "DocsId": "F:System.Environment.SpecialFolderOption.value__",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolderOption.None",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolderOption.Create",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         },
         {
           "DocsId": "F:System.Environment.SpecialFolderOption.DoNotVerify",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
         }
       ],
       "DocsId": "T:System.Environment.SpecialFolderOption",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Environment.SpecialFolder.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Environment.CoreCLR.cs"
     },
     {
       "Members": [
@@ -3691,7 +3691,7 @@
         }
       ],
       "DocsId": "T:System.RuntimeMethodHandle",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/artifacts/obj/coreclr/System.Private.CoreLib/linux.x64.Release/generated/Microsoft.Interop.LibraryImportGenerator/Microsoft.Interop.LibraryImportGenerator/LibraryImports.g.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/RuntimeHandles.cs"
     },
     {
       "Members": [
@@ -3795,7 +3795,7 @@
         },
         {
           "DocsId": "F:System.ModuleHandle.EmptyHandle",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Convert.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/RuntimeHandles.cs"
         },
         {
           "DocsId": "P:System.ModuleHandle.MDStreamVersion",
@@ -3803,7 +3803,7 @@
         }
       ],
       "DocsId": "T:System.ModuleHandle",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Convert.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/RuntimeHandles.cs"
     },
     {
       "Members": [
@@ -7001,7 +7001,7 @@
         },
         {
           "DocsId": "T:System.ArraySegment`1.Enumerator",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ICustomFormatter.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ArraySegment.cs"
         }
       ],
       "DocsId": "T:System.ArraySegment`1",
@@ -7035,7 +7035,7 @@
         }
       ],
       "DocsId": "T:System.ArraySegment`1.Enumerator",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ICustomFormatter.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ArraySegment.cs"
     },
     {
       "Members": [
@@ -21419,7 +21419,7 @@
         },
         {
           "DocsId": "T:System.ReadOnlySpan`1.Enumerator",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Resources/IResourceReader.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ReadOnlySpan.cs"
         }
       ],
       "DocsId": "T:System.ReadOnlySpan`1",
@@ -21461,7 +21461,7 @@
         }
       ],
       "DocsId": "T:System.ReadOnlySpan`1.Enumerator",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Resources/IResourceReader.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ReadOnlySpan.cs"
     },
     {
       "Members": [
@@ -23547,7 +23547,7 @@
         }
       ],
       "DocsId": "T:System.OrdinalComparer",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Globalization/CompareOptions.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/StringComparer.cs"
     },
     {
       "Members": [
@@ -23679,7 +23679,7 @@
         }
       ],
       "DocsId": "T:System.MTAThreadAttribute",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Globalization/DateTimeFormatInfoScanner.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/ThreadAttributes.cs"
     },
     {
       "Members": [
@@ -30332,7 +30332,7 @@
         }
       ],
       "DocsId": "T:System.WeakReference`1",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/IMemoryOwner.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/WeakReference.T.cs"
     },
     {
       "Members": [
@@ -36192,65 +36192,65 @@
         }
       ],
       "DocsId": "T:System.Buffers.Text.Utf8Parser",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/JitInfo.CoreCLR.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Text/Utf8Parser/Utf8Parser.Boolean.cs"
     },
     {
       "Members": [
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadDoubleBigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadHalfBigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadBFloat16BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt16BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt32BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt64BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt128BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadIntPtrBigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadSingleBigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt16BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt32BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt64BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt128BigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUIntPtrBigEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.TryReadDoubleBigEndian(System.ReadOnlySpan{System.Byte},System.Double@)",
@@ -36310,59 +36310,59 @@
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadDoubleLittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadHalfLittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadBFloat16LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt16LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt32LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt64LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadInt128LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadIntPtrLittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadSingleLittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt16LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt32LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt64LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUInt128LittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.ReadUIntPtrLittleEndian(System.ReadOnlySpan{System.Byte})",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
         },
         {
           "DocsId": "M:System.Buffers.Binary.BinaryPrimitives.TryReadDoubleLittleEndian(System.ReadOnlySpan{System.Byte},System.Double@)",
@@ -36734,7 +36734,7 @@
         }
       ],
       "DocsId": "T:System.Buffers.Binary.BinaryPrimitives",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/GCSettings.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Buffers/Binary/BinaryPrimitives.ReadBigEndian.cs"
     },
     {
       "Members": [
@@ -39020,7 +39020,7 @@
         }
       ],
       "DocsId": "T:System.Threading.ThreadPool",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/CharSet.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Threading/ThreadPoolWorkQueue.cs"
     },
     {
       "Members": [
@@ -40853,7 +40853,7 @@
         }
       ],
       "DocsId": "T:System.Threading.Tasks.TaskCompletionSource`1",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/ComTypes/ITypeInfo.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Threading/Tasks/TaskCompletionSource_T.cs"
     },
     {
       "Members": [
@@ -41265,7 +41265,7 @@
         }
       ],
       "DocsId": "T:System.Threading.Tasks.UnobservedTaskExceptionEventArgs",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/ComTypes/ITypeLib.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Threading/Tasks/TaskScheduler.cs"
     },
     {
       "Members": [
@@ -42045,11 +42045,11 @@
         },
         {
           "DocsId": "T:System.Text.StringBuilder.ChunkEnumerator",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/StringBuilder.cs"
         },
         {
           "DocsId": "T:System.Text.StringBuilder.AppendInterpolatedStringHandler",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/StringBuilder.cs"
         }
       ],
       "DocsId": "T:System.Text.StringBuilder",
@@ -42071,7 +42071,7 @@
         }
       ],
       "DocsId": "T:System.Text.StringBuilder.ChunkEnumerator",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/StringBuilder.cs"
     },
     {
       "Members": [
@@ -42125,7 +42125,7 @@
         }
       ],
       "DocsId": "T:System.Text.StringBuilder.AppendInterpolatedStringHandler",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/StringBuilder.cs"
     },
     {
       "Members": [
@@ -42523,7 +42523,7 @@
         }
       ],
       "DocsId": "T:System.Text.DecoderFallbackException",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/CastCache.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderExceptionFallback.cs"
     },
     {
       "Members": [
@@ -42555,15 +42555,15 @@
       "Members": [
         {
           "DocsId": "M:System.Text.DecoderFallbackBuffer.Fallback(System.Byte[],System.Int32)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/GenericCache.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderFallback.cs"
         },
         {
           "DocsId": "M:System.Text.DecoderFallbackBuffer.GetNextChar",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/GenericCache.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderFallback.cs"
         },
         {
           "DocsId": "M:System.Text.DecoderFallbackBuffer.MovePrevious",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/GenericCache.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderFallback.cs"
         },
         {
           "DocsId": "M:System.Text.DecoderFallbackBuffer.Reset",
@@ -42571,15 +42571,15 @@
         },
         {
           "DocsId": "M:System.Text.DecoderFallbackBuffer.#ctor",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/GenericCache.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderFallback.cs"
         },
         {
           "DocsId": "P:System.Text.DecoderFallbackBuffer.Remaining",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/GenericCache.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderFallback.cs"
         }
       ],
       "DocsId": "T:System.Text.DecoderFallbackBuffer",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/GenericCache.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/DecoderFallback.cs"
     },
     {
       "Members": [
@@ -44297,7 +44297,7 @@
         },
         {
           "DocsId": "T:System.Text.Unicode.Utf8.TryWriteInterpolatedStringHandler",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/InlineArray.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/Unicode/Utf8.cs"
         }
       ],
       "DocsId": "T:System.Text.Unicode.Utf8",
@@ -44363,7 +44363,7 @@
         }
       ],
       "DocsId": "T:System.Text.Unicode.Utf8.TryWriteInterpolatedStringHandler",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/InlineArray.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Text/Unicode/Utf8.cs"
     },
     {
       "Members": [
@@ -44373,7 +44373,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.ControlledExecution",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/artifacts/obj/coreclr/System.Private.CoreLib/linux.x64.Release/generated/Microsoft.Interop.LibraryImportGenerator/Microsoft.Interop.LibraryImportGenerator/LibraryImports.g.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/ControlledExecution.CoreCLR.cs"
     },
     {
       "Members": [
@@ -44551,7 +44551,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.TargetedPatchingOptOutAttribute",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/TaskAwaiter.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/NgenServicingAttributes.cs"
     },
     {
       "Members": [
@@ -44711,7 +44711,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Versioning.UnsupportedOSPlatformAttribute",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/UnsafeAccessorAttribute.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Versioning/PlatformAttributes.cs"
     },
     {
       "Members": [
@@ -44753,7 +44753,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Versioning.UnsupportedOSPlatformGuardAttribute",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/UnsafeValueTypeAttribute.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Versioning/PlatformAttributes.cs"
     },
     {
       "Members": [
@@ -60559,7 +60559,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx10v1.V512",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/AssemblyNameFlags.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx10v1.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx10v1",
@@ -61003,7 +61003,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx10v1.V512",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/AssemblyNameFlags.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx10v1.cs"
     },
     {
       "Members": [
@@ -61243,7 +61243,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnniInt8.V512",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/BindingFlags.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/AvxVnniInt8.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnniInt8",
@@ -61291,7 +61291,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnniInt8.V512",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/BindingFlags.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/AvxVnniInt8.cs"
     },
     {
       "Members": [
@@ -61349,7 +61349,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnniInt16.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/CorElementType.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/AvxVnniInt16.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnniInt16.V512",
@@ -61367,7 +61367,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnniInt16.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/CorElementType.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/AvxVnniInt16.cs"
     },
     {
       "Members": [
@@ -62473,7 +62473,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512CD.VL",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/EventAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512CD.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512CD.X64",
@@ -62555,7 +62555,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512CD.VL",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/EventAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512CD.cs"
     },
     {
       "Members": [
@@ -62903,7 +62903,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512DQ.VL",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ExceptionHandlingClauseOptions.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512DQ.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512DQ.X64",
@@ -63101,7 +63101,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512DQ.VL",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ExceptionHandlingClauseOptions.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512DQ.cs"
     },
     {
       "Members": [
@@ -65405,11 +65405,11 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512F.VL",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/GenericParameterAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512F.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512F.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ICustomAttributeProvider.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512F.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512F",
@@ -67043,7 +67043,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512F.VL",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/GenericParameterAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512F.cs"
     },
     {
       "Members": [
@@ -67109,7 +67109,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512F.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ICustomAttributeProvider.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512F.cs"
     },
     {
       "Members": [
@@ -67143,7 +67143,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512Vbmi.VL",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/InterfaceMapping.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512Vbmi.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512Vbmi.X64",
@@ -67209,7 +67209,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512Vbmi.VL",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/InterfaceMapping.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512Vbmi.cs"
     },
     {
       "Members": [
@@ -67293,7 +67293,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512Vbmi2.VL",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/InvocationFlags.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512Vbmi2.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512Vbmi2.X64",
@@ -67439,7 +67439,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Avx512Vbmi2.VL",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/InvocationFlags.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Avx512Vbmi2.cs"
     },
     {
       "Members": [
@@ -67491,7 +67491,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnni.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/IReflect.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/AvxVnni.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnni",
@@ -67505,7 +67505,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.AvxVnni.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/IReflect.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/AvxVnni.cs"
     },
     {
       "Members": [
@@ -67615,7 +67615,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Bmi2.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/MemberFilter.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Bmi2.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Bmi2",
@@ -67649,7 +67649,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Bmi2.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/MemberFilter.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Bmi2.cs"
     },
     {
       "Members": [
@@ -67787,7 +67787,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Fma.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Fma.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Fma",
@@ -67801,7 +67801,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Fma.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Fma.cs"
     },
     {
       "Members": [
@@ -67823,7 +67823,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Gfni.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodImplAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Gfni.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Gfni.V256",
@@ -67845,7 +67845,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Gfni.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/MethodImplAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Gfni.cs"
     },
     {
       "Members": [
@@ -67947,7 +67947,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Pclmulqdq.V512",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ModuleResolveEventHandler.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Pclmulqdq.Wide.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Pclmulqdq",
@@ -67997,7 +67997,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Pclmulqdq.V512",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ModuleResolveEventHandler.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Pclmulqdq.Wide.cs"
     },
     {
       "Members": [
@@ -68011,7 +68011,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Popcnt.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/NullabilityInfo.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Popcnt.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Popcnt",
@@ -68029,7 +68029,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Popcnt.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/NullabilityInfo.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Popcnt.cs"
     },
     {
       "Members": [
@@ -69619,7 +69619,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Sse2.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ParameterAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Sse2.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Sse2",
@@ -69669,7 +69669,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Sse2.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ParameterAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Sse2.cs"
     },
     {
       "Members": [
@@ -70331,7 +70331,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Sse41.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/PortableExecutableKinds.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Sse41.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Sse41",
@@ -70361,7 +70361,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Sse41.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/PortableExecutableKinds.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Sse41.cs"
     },
     {
       "Members": [
@@ -70387,7 +70387,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.Sse42.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/PropertyAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Sse42.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Sse42",
@@ -70405,7 +70405,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.Sse42.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/PropertyAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/Sse42.cs"
     },
     {
       "Members": [
@@ -70559,7 +70559,7 @@
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.X86.X86Base.X64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ResourceAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/X86Base.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.X86Base",
@@ -70581,7 +70581,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.X86.X86Base.X64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/ResourceAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/X86/X86Base.cs"
     },
     {
       "Members": [
@@ -77835,7 +77835,7 @@
         },
         {
           "DocsId": "P:System.Runtime.Intrinsics.Arm.AdvSimd.IsSupported",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/SignatureCallingConvention.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/AdvSimd.PlatformNotSupported.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.Arm.AdvSimd.Arm64",
@@ -77843,7 +77843,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.Arm.AdvSimd",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/SignatureCallingConvention.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/AdvSimd.PlatformNotSupported.cs"
     },
     {
       "Members": [
@@ -81739,25 +81739,25 @@
         },
         {
           "DocsId": "P:System.Runtime.Intrinsics.Arm.Sha1.IsSupported",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha1.PlatformNotSupported.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.Arm.Sha1.Arm64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha1.PlatformNotSupported.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.Arm.Sha1",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha1.PlatformNotSupported.cs"
     },
     {
       "Members": [
         {
           "DocsId": "P:System.Runtime.Intrinsics.Arm.Sha1.Arm64.IsSupported",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeAttributes.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha1.PlatformNotSupported.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.Arm.Sha1.Arm64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeAttributes.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha1.PlatformNotSupported.cs"
     },
     {
       "Members": [
@@ -81779,25 +81779,25 @@
         },
         {
           "DocsId": "P:System.Runtime.Intrinsics.Arm.Sha256.IsSupported",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeFilter.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha256.PlatformNotSupported.cs"
         },
         {
           "DocsId": "T:System.Runtime.Intrinsics.Arm.Sha256.Arm64",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeFilter.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha256.PlatformNotSupported.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.Arm.Sha256",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeFilter.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha256.PlatformNotSupported.cs"
     },
     {
       "Members": [
         {
           "DocsId": "P:System.Runtime.Intrinsics.Arm.Sha256.Arm64.IsSupported",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeFilter.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha256.PlatformNotSupported.cs"
         }
       ],
       "DocsId": "T:System.Runtime.Intrinsics.Arm.Sha256.Arm64",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Reflection/TypeFilter.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/Intrinsics/Arm/Sha256.PlatformNotSupported.cs"
     },
     {
       "Members": [
@@ -95868,7 +95868,7 @@
         },
         {
           "DocsId": "T:System.Runtime.InteropServices.Marshalling.ReadOnlySpanMarshaller`2.ManagedToUnmanagedOut",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Tracing/EventSource.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/Marshalling/ReadOnlySpanMarshaller.cs"
         }
       ],
       "DocsId": "T:System.Runtime.InteropServices.Marshalling.ReadOnlySpanMarshaller`2",
@@ -95954,7 +95954,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.InteropServices.Marshalling.ReadOnlySpanMarshaller`2.ManagedToUnmanagedOut",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Tracing/EventSource.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/Marshalling/ReadOnlySpanMarshaller.cs"
     },
     {
       "Members": [
@@ -96162,7 +96162,7 @@
         },
         {
           "DocsId": "T:System.Runtime.InteropServices.Marshalling.Utf8StringMarshaller.ManagedToUnmanagedIn",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Tracing/EventSource.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/Marshalling/Utf8StringMarshaller.cs"
         }
       ],
       "DocsId": "T:System.Runtime.InteropServices.Marshalling.Utf8StringMarshaller",
@@ -96188,7 +96188,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.InteropServices.Marshalling.Utf8StringMarshaller.ManagedToUnmanagedIn",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Tracing/EventSource.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/Marshalling/Utf8StringMarshaller.cs"
     },
     {
       "Members": [
@@ -96224,7 +96224,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.InteropServices.Java.JavaMarshal",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Tracing/EventSource.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/InteropServices/Java/JavaMarshal.Unsupported.cs"
     },
     {
       "Members": [
@@ -98256,11 +98256,11 @@
         },
         {
           "DocsId": "T:System.Runtime.CompilerServices.RuntimeHelpers.TryCode",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "T:System.Runtime.CompilerServices.RuntimeHelpers.CleanupCode",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.RuntimeHelpers",
@@ -98270,45 +98270,45 @@
       "Members": [
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.TryCode.#ctor(System.Object,System.IntPtr)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.TryCode.Invoke(System.Object)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.TryCode.BeginInvoke(System.Object,System.AsyncCallback,System.Object)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.TryCode.EndInvoke(System.IAsyncResult)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.RuntimeHelpers.TryCode",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
     },
     {
       "Members": [
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.CleanupCode.#ctor(System.Object,System.IntPtr)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.CleanupCode.Invoke(System.Object,System.Boolean)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.CleanupCode.BeginInvoke(System.Object,System.Boolean,System.AsyncCallback,System.Object)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         },
         {
           "DocsId": "M:System.Runtime.CompilerServices.RuntimeHelpers.CleanupCode.EndInvoke(System.IAsyncResult)",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.RuntimeHelpers.CleanupCode",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Diagnostics/Contracts/Contracts.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Runtime/CompilerServices/RuntimeHelpers.CoreCLR.cs"
     },
     {
       "Members": [
@@ -98622,7 +98622,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.CallConvCdecl",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Collections/IList.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/CallingConventions.cs"
     },
     {
       "Members": [
@@ -98632,7 +98632,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.CallConvFastcall",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Collections/IStructuralComparable.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/CallingConventions.cs"
     },
     {
       "Members": [
@@ -98642,7 +98642,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.CallConvStdcall",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Collections/IStructuralEquatable.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/CallingConventions.cs"
     },
     {
       "Members": [
@@ -98908,7 +98908,7 @@
         },
         {
           "DocsId": "T:System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.Enumerator",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Collections/Generic/ArraySortHelper.CoreCLR.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/ConfiguredCancelableAsyncEnumerable.cs"
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1",
@@ -98930,7 +98930,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.Enumerator",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Collections/Generic/ArraySortHelper.CoreCLR.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/ConfiguredCancelableAsyncEnumerable.cs"
     },
     {
       "Members": [
@@ -100184,7 +100184,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.ConfiguredTaskAwaitable",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Numerics/IMultiplicativeIdentity.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/TaskAwaiter.cs"
     },
     {
       "Members": [
@@ -100604,7 +100604,7 @@
         },
         {
           "DocsId": "T:System.Runtime.CompilerServices.YieldAwaitable.YieldAwaiter",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/Internal/Padding.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/YieldAwaitable.cs"
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.YieldAwaitable",
@@ -100634,7 +100634,7 @@
         }
       ],
       "DocsId": "T:System.Runtime.CompilerServices.YieldAwaitable.YieldAwaiter",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/Internal/Padding.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Runtime/CompilerServices/YieldAwaitable.cs"
     },
     {
       "Members": [
@@ -117384,11 +117384,11 @@
         },
         {
           "DocsId": "M:System.Collections.Generic.ByteEqualityComparer.#ctor",
-          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Collections/Generic/EqualityComparer.CoreCLR.cs"
+          "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Collections/Generic/EqualityComparer.cs"
         }
       ],
       "DocsId": "T:System.Collections.Generic.ByteEqualityComparer",
-      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/coreclr/System.Private.CoreLib/src/System/Collections/Generic/EqualityComparer.CoreCLR.cs"
+      "SourceLink": "https://github.com/dotnet/dotnet/blob/87bc0b04e21d786669142109a5128c95618b75ed/src/runtime/src/libraries/System.Private.CoreLib/src/System/Collections/Generic/EqualityComparer.cs"
     },
     {
       "Members": [
